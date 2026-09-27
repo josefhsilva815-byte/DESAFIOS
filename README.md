@@ -12,4 +12,10 @@ Os exercícios têm como objetivo fortalecer minha lógica de programação, exp
 * Identificar pontos de melhoria e corrigir dificuldades;
 * Manter uma rotina constante de aprendizado e prática.
 
+## Origem dos desafios
+
+Os desafios e atividades presentes nesta pasta são baseados nos exercícios disponibilizados pelo **[freeCodeCamp](https://www.freecodecamp.org/)**, uma plataforma voltada ao aprendizado e à prática de programação.
+
+A utilização desses desafios faz parte da minha busca por **aprendizado contínuo**, permitindo colocar em prática os conhecimentos adquiridos e desenvolver minhas habilidades por meio de exercícios e problemas reais de programação.
+
 Este material representa parte do meu processo de **aprendizado contínuo e evolução como desenvolvedor**, buscando sempre adquirir novos conhecimentos e aperfeiçoar minhas habilidades de programação.
